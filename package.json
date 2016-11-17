@@ -2,13 +2,19 @@
   "name": "pug-lint-vue",
   "version": "0.1.1",
   "description": "Command line tool to lint Pug templates in Vue single file components.",
-  "main": "lib/linter.js",
+  "keywords": ["lint", "linting", "linter", "pug", "jade", "vue"],
+  "homepage": "https://github.com/sourceboat/pug-lint-vue",
+  "bugs": "https://github.com/sourceboat/pug-lint-vue/issues",
+  "author": "Sourceboat <info@sourceboat.com>",
+  "contributors": [
+    "Phil-Bastian Berndt <me@pbb.io> (https://pbb.io/)"
+  ],
+  "license": "MIT",
   "repository": {
     "url": "https://github.com/sourceboat/pug-lint-vue",
     "type": "git"
   },
-  "author": "Sourceboat <info@sourceboat.com>",
-  "license": "MIT",
+  "main": "lib/linter.js",
   "bin": {
     "pug-lint-vue": "./bin/pug-lint-vue"
   },
