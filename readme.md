@@ -21,3 +21,12 @@ $ pug-lint-vue [options] <file ...>
 * `-h, --help`: output usage information
 * `-V, --version`: output the version number
 * `-c, --config <path>`: configuration file path (see [pug-lint](https://github.com/pugjs/pug-lint#configuration-file) for more information)
+
+
+## Example
+
+The following example scans the `assets` directory for `.vue` files and outputs lint errors in `<template>` tags with the attribute `lang="pug"` set. 
+
+```
+$ pug-lint-vue assets
+```
