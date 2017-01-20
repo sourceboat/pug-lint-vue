@@ -1,5 +1,7 @@
 # pug-lint-vue
 
+[![npm](https://img.shields.io/npm/v/pug-lint-vue.svg)](https://www.npmjs.com/package/pug-lint-vue)
+
 Command line tool to lint [Pug](https://github.com/pugjs/pug) templates in [Vue single file components](https://vuejs.org/v2/guide/single-file-components.html). It uses [pug-lint](https://github.com/pugjs/pug-lint) under the hood.
 
 ## Installation
