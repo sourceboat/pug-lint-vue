@@ -2,7 +2,14 @@
   "name": "pug-lint-vue",
   "version": "0.1.2",
   "description": "Command line tool to lint Pug templates in Vue single file components.",
-  "keywords": ["lint", "linting", "linter", "pug", "jade", "vue"],
+  "keywords": [
+    "lint",
+    "linting",
+    "linter",
+    "pug",
+    "jade",
+    "vue"
+  ],
   "homepage": "https://github.com/sourceboat/pug-lint-vue",
   "bugs": "https://github.com/sourceboat/pug-lint-vue/issues",
   "author": "Sourceboat <info@sourceboat.com>",
@@ -18,10 +25,17 @@
   "bin": {
     "pug-lint-vue": "./bin/pug-lint-vue"
   },
+  "scripts": {
+    "lint": "eslint --ext .js lib"
+  },
   "dependencies": {
     "chalk": "^1.1.3",
     "cheerio": "^0.22.0",
     "commander": "^2.9.0",
+    "eslint": "^3.14.1",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1",
     "htmlparser": "^1.7.7",
     "pug-lint": "^2.3.0",
     "text-table": "^0.2.0",
