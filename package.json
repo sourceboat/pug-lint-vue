@@ -33,14 +33,18 @@
     "chalk": "^2.4.2",
     "cheerio": "^1.0.0-rc.3",
     "commander": "^2.20.0",
-    "eslint": "^3.14.1",
-    "eslint-config-standard": "^6.2.1",
-    "eslint-plugin-promise": "^3.4.0",
-    "eslint-plugin-standard": "^2.0.1",
     "htmlparser2": "^3.9.2",
-    "husky": "^0.13.1",
     "pug-lint": "^2.5.0",
     "text-table": "^0.2.0",
     "walk": "^2.3.14"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "husky": "^2.4.1"
   }
 }
