@@ -33,3 +33,18 @@ The following example scans the `assets` directory for `.vue` files and outputs 
 ```
 $ pug-lint-vue assets
 ```
+
+## Development
+
+Build the docker container via:
+
+```
+$ docker build . -t pug-lint-vue
+```
+
+Use docker compose to work on the files:
+
+```
+$ docker-compose up
+$ docker-compose exec app bash
+```
