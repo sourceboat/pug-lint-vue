@@ -33,7 +33,7 @@
     "chalk": "^2.4.2",
     "cheerio": "^1.0.0-rc.3",
     "commander": "^2.20.0",
-    "htmlparser2": "^3.9.2",
+    "htmlparser2": "^4.0.0",
     "pug-lint": "^2.6.0",
     "text-table": "^0.2.0",
     "walk": "^2.3.14"
