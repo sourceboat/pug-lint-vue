@@ -30,7 +30,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "chalk": "^3.0.0",
+    "chalk": "^4.0.0",
     "cheerio": "^1.0.0-rc.3",
     "commander": "^5.0.0",
     "htmlparser2": "^4.0.0",
