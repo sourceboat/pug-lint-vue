@@ -1,6 +1,6 @@
 {
   "name": "pug-lint-vue",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Command line tool to lint Pug templates in Vue single file components.",
   "keywords": [
     "lint",
