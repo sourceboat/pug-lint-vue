@@ -39,7 +39,7 @@
     "walk": "^2.3.14"
   },
   "devDependencies": {
-    "eslint": "^6.0.1",
+    "eslint": "^7.2.0",
     "eslint-config-standard": "^14.0.1",
     "eslint-plugin-import": "^2.18.0",
     "eslint-plugin-node": "^11.0.0",
