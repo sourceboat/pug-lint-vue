@@ -1,6 +1,6 @@
 :warning: **Deprecated:** This project is not actively maintained anymore. Use it at your own risk. Here are some helpful ressources:
 
-- [vuejs/eslint-plugin-vue]() will most likely  not support Pug (see [vuejs/eslint-plugin-vue#640](https://github.com/vuejs/eslint-plugin-vue/issues/640#issuecomment-437631774)).
+- [`vuejs/eslint-plugin-vue`](https://github.com/vuejs/eslint-plugin-vue) will most likely  not support Pug (see [vuejs/eslint-plugin-vue#640](https://github.com/vuejs/eslint-plugin-vue/issues/640#issuecomment-437631774)).
 - [`prettier/plugin-pug`](https://github.com/prettier/plugin-pug) is a Prettier plugin to add Pug support for Prettier (with support for Vue Single File Components).
 - [`leo-buneev/pug-to-html`](https://github.com/leo-buneev/pug-to-html) converts your Pug code to HTML code (with support for Vue Single File Components).
 
